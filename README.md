@@ -14,7 +14,7 @@ Our dataset comprises 27,558 cell images, evenly split between parasitized and u
 
 ## Neural Network Model
 
-![](op1.png)
+![op1](https://github.com/Senthil-Kumar-710/demo/assets/93860256/b0528ca1-b679-4864-bd57-9d6c07f0a1bf)
 
 ## DESIGN STEPS
 
@@ -178,15 +178,15 @@ confusion_matrix(test_image_gen.classes,predictions)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![](op2.png)
+![op2](https://github.com/Senthil-Kumar-710/demo/assets/93860256/2ffb9464-435f-4bec-b33b-d113075d13c6)
 
 ### Classification Report and Confusion Matrix
 
-![](op3.png)
+![op3](https://github.com/Senthil-Kumar-710/demo/assets/93860256/9967f76e-d3a5-4276-9c05-2c36496cabb2)
 
 ### New Sample Data Prediction
 
-![](op4.png)
+![op4](https://github.com/Senthil-Kumar-710/demo/assets/93860256/99c3b322-fdc4-4a05-8e5c-c27c3d100545)
 
 ## RESULT
 
